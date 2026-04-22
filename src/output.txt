@@ -1,0 +1,1 @@
+cd "c:\Users\LENOVO\OneDrive\Desktop\assignment-4-ognabin\src\" ; if ($?) { gcc q11.c -o q11 } ; if
